@@ -1,0 +1,2 @@
+# KarateKidoStupidBot
+Auto Telegram Gamer 
