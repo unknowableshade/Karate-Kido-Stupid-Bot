@@ -25,13 +25,13 @@ def ifColorPattern(color1, color2, colors):
     else:
         return False
 
-# It makes our P key toggle the bot
+# It makes our P key toggles the bot
 keyboard.add_hotkey("p", lambda:switch())
 
 try:
     while True:
         while state:
-            time.sleep(0.1) # Doing it slower because screenshots isn't an instant action
+            time.sleep(0.1) # Doing it slower because screenshot isn't an instant action
             screen = pyautogui.screenshot().load()
 
             # Taking colors of pixels on the sticks edges
