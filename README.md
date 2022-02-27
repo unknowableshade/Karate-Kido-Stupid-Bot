@@ -3,7 +3,7 @@ Auto Telegram Gamer
 
 # Vital Information
 
-This project was developed for fun ans also I wanted to try out new Android Subsystem for Windows.
+This project was developed for fun and also I wanted to try an Android Subsystem for Windows.
 
 So...
 
