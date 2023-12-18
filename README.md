@@ -1,4 +1,4 @@
-# Karate-Kido-Bot
+# Karate Kido Bot
 Auto Telegram Gamer
 
 # Information
